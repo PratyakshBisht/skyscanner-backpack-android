@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.SkyscannerBackpack" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00a698</item>
+        <item name="colorPrimaryVariant">#00867a</item>
+        <item name="colorOnPrimary">#ffffff</item>
+    </style>
+</resources>
